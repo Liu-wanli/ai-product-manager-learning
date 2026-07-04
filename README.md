@@ -1,2 +1,12 @@
-# ai-product-manager-learning
-My AI Product Manager Learning Journey
+# AI产品经理成长中心
+
+这是我的 AI 产品经理学习网站。
+
+网站内容包括：
+
+- 每日学习笔记
+- AI 实操
+- Prompt 库
+- 工作项目
+- 英语词汇
+
